@@ -3,8 +3,6 @@
 
 #Intro
 
-The dataset used was the Australian Government Organisation Register.
-
 The Australian Government Organisations Register (the Register) provides information on the function, composition, origins and other details of approximately 1,145 Australian Government entities, bodies and relationships. The Register replaces the List of Government Bodies and Governance Relationships, which was last published in 2009.
 
 AGORpedia aims to provide an easy to use platform to view the Australian Government Organisation Register and track changes to it over time.
@@ -29,4 +27,6 @@ Our tech stack:
 
 Currently only authorised users have permission to edit the MediaWiki.  On request, trusted government users could be given permission to update AGORpedia, providing an easy way to make updates as changes occur.  We would also add the ability to export the data back to CSV, so that datasets continue to be made available on data.gov.au, and an API to allow users to query AGOR dynamically.
 
-
+#See also
+* [AGORpedia on the GovHack2015 Hackerspace](https://hackerspace.govhack.org/content/agorpedia)
+* [AGORpedia prototype!](http://agor.ourlocalstories.co)
