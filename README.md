@@ -30,3 +30,5 @@ Currently only authorised users have permission to edit the MediaWiki.  On reque
 #See also
 * [AGORpedia on the GovHack2015 Hackerspace](https://hackerspace.govhack.org/content/agorpedia)
 * [AGORpedia prototype!](http://agor.ourlocalstories.co)
+* [AGOR website](http://www.finance.gov.au/resource-management/governance/agor/)
+* [AGOR dataset](https://data.gov.au/dataset/australian-government-organisations-register)
